@@ -1,0 +1,1 @@
+Hello, welcome to the first release of ChatDI, a gandi ide AI Chat service!
